@@ -1,0 +1,71 @@
+body, html {
+  height: 100%;
+  background-color: black;
+}
+
+
+
+
+.container section .image {
+  /* The image used */
+  background-image: url("image1.jpg");
+
+width: 100%;
+  /* Full height */
+  height: 120%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+.container section .stuff {
+  
+  display: flex;
+  
+   flex-direction: column;
+
+  
+  height: 100%;
+  width: 100%;
+  max-width: 70%;
+ 
+  justify-content: center;
+  text-align: center;
+  z-index: 1000;
+  color: #e67e22;
+  margin: 0 auto;
+  font-size: 26px;
+  position: relative;
+}
+
+.container section .stuff h2 {
+  margin: 0px;
+}
+ 
+ img {
+  width: 100%;
+ }
+
+
+
+
+/*# sourceMappingURL=main.css.map */
+
+.button {
+  background: black;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button4 {border-radius: 12px;}

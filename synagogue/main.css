@@ -1,0 +1,41 @@
+
+
+.first {
+     
+      width: 100%;
+    }
+   
+
+
+
+h1{
+justify-content: center;
+
+      align-items: center;
+      color: #55301E;
+text-align: center;
+}
+body{
+background-color: #F0E9E9 ;
+}
+
+.button {
+  background: #F0E9E9;
+  border: none;
+  color: white;
+  padding: 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}
+
+.button4 {border-radius: 12px;}
+
+.video-holder {
+	width: 20%;
+
+padding-left: 40%;
+
+}
